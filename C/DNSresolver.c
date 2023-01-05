@@ -2,7 +2,6 @@
 #include <netdb.h>
 #include <arpa/inet.h>
 
-
 int main(void){
 	char site[50];
 
